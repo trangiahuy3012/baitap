@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Food Hub</string>
+    <string name="email_label">Email</string>
+    <string name="password_label">Password</string>
+</resources>
